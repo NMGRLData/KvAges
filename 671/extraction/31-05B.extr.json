@@ -1,0 +1,37 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 30.0,
+    "commit": "c8cd364034d8e1f9b8c04509879754e8d77f27b7",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "",
+    "extract_value": 2.25,
+    "grain_polygons": [
+        "YVVLN1R1RmFyVUVpQUJzQUlRQWNBQ0FBSEFBZkFCMEFId0FlQUI0QUh3QWVBQ0FBSGdBaEFCNEFJZ0FlQUNNQUhnQWtBQjRBSlFBZkFDWUFId0FuQUNBQUtBQWhBQ2tBSVFBcUFDSUFLZ0FqQUNzQUpBQXJBQ1VBS3dBbUFDb0FKd0FxQUNnQUtRQXBBQ2dBS2dBbkFDc0FKZ0FyQUNVQUxBQWtBQ3dBSXdBc0FDSUFLd0FoQUNzQUlBQXJBQjhBS2dBZUFDa0FIUUFvQUJ3QUp3QWNBQ1lBR3dBbEFCc0FKQUFiQUNNQUd3QT0=",
+        "YVVLN1R1RmFyVUVpQUJzQUlRQWNBQ0FBSEFBZkFCMEFId0FlQUI0QUh3QWVBQ0FBSGdBaEFCNEFJZ0FlQUNNQUhnQWtBQjRBSlFBZkFDWUFId0FuQUNBQUtBQWhBQ2tBSVFBcUFDSUFLZ0FqQUNzQUpBQXJBQ1VBS3dBbUFDb0FKd0FxQUNnQUtRQXBBQ2dBS2dBbkFDc0FKZ0FyQUNVQUxBQWtBQ3dBSXdBc0FDSUFLd0FoQUNzQUlBQXJBQjhBS2dBZUFDa0FIUUFvQUJ3QUp3QWNBQ1lBR3dBbEFCc0FKQUFiQUNNQUd3QT0=",
+        "YVVLN1R1RmFyVUViQUIwQUdnQWVBQmtBSGdBWkFCOEFHQUFnQUJnQUlRQVlBQ0lBR0FBakFCZ0FKQUFZQUNVQUdRQW1BQm9BSndBYUFDZ0FHd0FwQUJ3QUtnQWRBQ29BSGdBcUFCOEFLUUFnQUNrQUlRQW9BQ0lBSndBakFDWUFJd0FsQUNNQUpBQWpBQ01BSXdBaUFDSUFJUUFpQUNBQUlRQWZBQ0FBSGdBZkFCMEFIZ0FkQUIwQUhRQWNBQjBB",
+        "YVVLN1R1RmFyVUViQUIwQUdnQWVBQmtBSGdBWkFCOEFHQUFnQUJnQUlRQVlBQ0lBR0FBakFCZ0FKQUFZQUNVQUdRQW1BQm9BSndBYUFDZ0FHd0FwQUJ3QUtnQWRBQ29BSGdBcUFCOEFLUUFnQUNrQUlRQW9BQ0lBSndBakFDWUFJd0FsQUNNQUpBQWpBQ01BSXdBaUFDSUFJUUFpQUNBQUlRQWZBQ0FBSGdBZkFCMEFIZ0FkQUIwQUhRQWNBQjBB"
+    ],
+    "light_value": null,
+    "load_holder": "221-small-hole",
+    "load_name": "C0076",
+    "measured_response": null,
+    "pattern": "dragonflypeakpattern_br1-221-small_hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "53",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "221-small-hole",
+    "videos": [],
+    "weight": 0
+}
