@@ -1,0 +1,32 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 30.0,
+    "commit": "472132431dd3524167a5f6a60e10fd085b288329",
+    "extract_device": "Fusions CO2",
+    "extract_duration": 30.0,
+    "extract_units": "",
+    "extract_value": 0.1,
+    "grain_polygons": [],
+    "light_value": null,
+    "load_holder": "221-small-hole",
+    "load_name": "C0077",
+    "measured_response": null,
+    "pattern": "dragonflypeakpattern_br1-221-small_hole.lp",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "53",
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "221-small-hole",
+    "videos": [],
+    "weight": 0
+}
