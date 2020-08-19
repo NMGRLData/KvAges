@@ -135,7 +135,7 @@
                 "uuid": "a71415e0-16c6-44e4-9424-18bf4685d016"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "bu-FC-J-12691",
                 "uuid": "08a518db-aef2-4f8b-a222-3ccf421639ee"
             }
@@ -144,7 +144,7 @@
         "value": 0.0058468791173449395
     },
     "Ar37": {
-        "error": 0.010138925292445223,
+        "error": 0.01032807698600742,
         "error_type": "",
         "fit": "Weighted Mean_SD",
         "references": [
@@ -279,16 +279,16 @@
                 "uuid": "a71415e0-16c6-44e4-9424-18bf4685d016"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "bu-FC-J-12691",
                 "uuid": "08a518db-aef2-4f8b-a222-3ccf421639ee"
             }
         ],
         "reviewed": true,
-        "value": 0.03368126099211477
+        "value": 0.03481467220100675
     },
     "Ar38": {
-        "error": 0.007993495444109351,
+        "error": 0.008121141700617406,
         "error_type": "",
         "fit": "Weighted Mean_SD",
         "references": [
@@ -423,16 +423,16 @@
                 "uuid": "a71415e0-16c6-44e4-9424-18bf4685d016"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "bu-FC-J-12691",
                 "uuid": "08a518db-aef2-4f8b-a222-3ccf421639ee"
             }
         ],
         "reviewed": true,
-        "value": 0.013910474606678356
+        "value": 0.015189125139405301
     },
     "Ar39": {
-        "error": 0.013017237836777398,
+        "error": 0.012836082750577607,
         "error_type": "",
         "fit": "Weighted Mean_SD",
         "references": [
@@ -567,13 +567,13 @@
                 "uuid": "a71415e0-16c6-44e4-9424-18bf4685d016"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "bu-FC-J-12691",
                 "uuid": "08a518db-aef2-4f8b-a222-3ccf421639ee"
             }
         ],
         "reviewed": true,
-        "value": 0.04463132971659024
+        "value": 0.04447080389642567
     },
     "Ar40": {
         "error": 0.009674178776671545,
@@ -711,7 +711,7 @@
                 "uuid": "a71415e0-16c6-44e4-9424-18bf4685d016"
             },
             {
-                "exclude": "omit",
+                "exclude": "ok",
                 "record_id": "bu-FC-J-12691",
                 "uuid": "08a518db-aef2-4f8b-a222-3ccf421639ee"
             }
